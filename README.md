@@ -11,7 +11,7 @@ Entendido! Vou ajustar o cronograma para que você estude apenas **1 hora por di
 |---------------|-----------------------------|-------------------------------------|
 | **Segunda**   | [Português: Ortografia](https://youtube.com/playlist?list=PLekVIXMLMZ1TU4PkZ8aTvcrt7BKVGYqgo&si=b0hrOPH71h6w0qmj)        | [Matemática: Conjuntos Numéricos](https://youtube.com/playlist?list=PLekVIXMLMZ1TZb0uLxzkvYId-QK2THN4q&si=j3h1s446IADqLBCG)     |
 | **Terça**     | [Português: Acentuação](https://youtu.be/vmKggNWVvtU?si=5B1pFiAvf0eR1ukv)       | [Raciocínio Lógico: Lógica Proposicional](https://youtu.be/PltqUuwR9ec?si=okAHSVaYPq2c7lJm) |
-| **Quarta**    | Português: Classes Gramaticais | Matemática: Operações Básicas       |
+| **Quarta**    | [Português: Classes Gramaticais](https://youtube.com/playlist?list=PLekVIXMLMZ1Ss5V9D3Mwe3jyhUhCC9V8z&si=mTzFo0U-7dlrzql1) | [Matemática: Operações Básicas](https://youtu.be/h3sFlP8Rmqc?si=jvcjdGyilpQioBOl)       |
 | **Quinta**    | Português: Concordância Verbal | Raciocínio Lógico: Tabelas-Verdade  |
 | **Sexta**    | Português: Regência Verbal  | Informática: Hardware e Software    |
 | **Sábado**    | Matemática: Frações         | Informática: Sistemas Operacionais |

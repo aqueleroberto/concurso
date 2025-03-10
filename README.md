@@ -9,7 +9,7 @@ Entendido! Vou ajustar o cronograma para que você estude apenas **1 hora por di
 
 | **Dia**       | **Matéria 1 (30 min)**       | **Matéria 2 (30 min)**               |
 |---------------|-----------------------------|-------------------------------------|
-| **Segunda**   | [Português: Ortografia](https://youtube.com/playlist?list=PLekVIXMLMZ1TU4PkZ8aTvcrt7BKVGYqgo&si=b0hrOPH71h6w0qmj)        | Matemática: Conjuntos Numéricos     |
+| **Segunda**   | [Português: Ortografia](https://youtube.com/playlist?list=PLekVIXMLMZ1TU4PkZ8aTvcrt7BKVGYqgo&si=b0hrOPH71h6w0qmj)        | [Matemática: Conjuntos Numéricos](https://youtube.com/playlist?list=PLekVIXMLMZ1TZb0uLxzkvYId-QK2THN4q&si=j3h1s446IADqLBCG)     |
 | **Terça**     | Português: Acentuação       | Raciocínio Lógico: Lógica Proposicional |
 | **Quarta**    | Português: Classes Gramaticais | Matemática: Operações Básicas       |
 | **Quinta**    | Português: Concordância Verbal | Raciocínio Lógico: Tabelas-Verdade  |
